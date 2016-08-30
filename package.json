@@ -1,0 +1,8 @@
+{
+	"name": "solar",
+	"version": "0.0.1",
+	"private" : true,
+	"scripts": {
+		"start": "http-server -p8080 -c-1 ./app"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "solar",
+	"version": "0.0.1",
+	"dependencies": {
+		"jquery": "1.12.x",
+		"angular": "1.5.8",
+		"bootstrap": "3.3.x"
+	}
+}
